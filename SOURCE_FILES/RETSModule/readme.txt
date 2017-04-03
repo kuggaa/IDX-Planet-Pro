@@ -1,6 +1,7 @@
 === WordPress Realty ===
 Authors: RETS PRO
-Website link: http://retspro.com/
+LICENSE: SourceCode
+Website link: http://wprealty.com/
 RETS PRO Plugin, WordPress Real Estate Plugin. 
 Requires at least WordPress: 4x
 WPR3x v.3.1.0
@@ -21,7 +22,7 @@ max_input_time = 600
 max_input_vars = 12000
 memory_limit = 512M
 
-*Ability to open ports ì6103î and ì8080î 
+*Ability to open ports ‚Äú6103‚Äù and ‚Äú8080‚Äù 
 *(this is a requirement for some RETS servers to communicate).
 
 How to upgrade documentaion will posted here for each new release /////
