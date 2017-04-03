@@ -1,0 +1,31 @@
+INFORETS PRO End-User License Agreement
+
+This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and RETS PRO for the RETS PRO Plugins, Applications and software, which includes website software, computer software and may include associated media, printed materials, and "online" or electronic documentation (collectively, "SOFTWARE").
+
+YOU AGREE TO THE TERMS OF THIS EULA BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE. IF YOU DO NOT AGREE TO THE TERMS OF THIS EULA, DO NOT INSTALL, COPY OR OTHERWISE USE THE SOFTWARE. IF YOU RECEIVED THE SOFTWARE ON DISKS OR OTHER MEDIA, PROMPTLY RETURN THE DISKS AND ACCOMPANYING ITEMS (INCLUDING WRITTEN MATERIALS AND BINDERS OR OTHER CONTAINERS) TO RETS PRO.
+
+1. GRANT OF LICENSE. RETS PRO grants you the following limited, non-exclusive, non-transferable, non-refundable, non-assignable license, provided that you comply with all terms and conditions of this EULA.
+
+Free Trial License: 
+Grants a license for the use of the SOFTWARE in a development and test environment.
+
+Single User License: 
+Grants a license for the use of a single installation of applications for use on a single domain or website. You must purchase a separate license for each indivdual use of the SOFTWARE.
+
+Developer License: 
+Grants a license for the use of a single developer on unlimited number of applications except packaged commercial products. You may install the SOFTWARE on more than one computer as long as the SOFTWARE is used solely by the licensed developer. You must purchase a separate license for each individual developer.
+
+One Year Full Maintenance: 
+You will be eligible for free minor/major version upgrades, bug fixes, service packs for a period of one year starting on the purchase date. At the end of this period, you may still keep using the SOFTWARE in your applications for as long as you wish. You can renew or purchase additional yearly access from within your client area or shopping cart on our site.
+
+
+Deployment: 
+You may not distribute the installation package of the SOFTWARE, which includes the license file that is needed for design-time only. You may only distribute the run-time components (server control dll files, script files, include directories) as an integral part of your web application. You are required to ensure that the SOFTWARE is not distributed in any form that allows it to be reused by any application other than yours. When you deploy your application, your customer is not permitted to use the SOFTWARE independent of your application. Your application cannot provide the same functionality as the SOFTWARE, and you cannot grant redistribution rights for the SOFTWARE to your end-users.
+
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS. Regarding encrypted code, you may not reverse engineer, decompile, or disassemble the SOFTWARE. You may not rent, lease, lend, or sell the SOFTWARE. You may not transfer any of the rights granted to you under this EULA to any third party. You may terminate this EULA at any time, or RETS PRO may terminate this EULA if you breach any of the terms or conditions of this EULA. Upon the termination of this EULA, you shall cease use of the SOFTWARE, and upon request, you shall promptly return to RETS PRO, or certify destruction of, all full or partial copies of the SOFTWARE and any materials related to the SOFTWARE provided by RETS PRO.
+
+3. INTELLECTUAL PROPERTY RIGHTS. All title and intellectual property rights in and to the SOFTWARE (including but not limited to any images, photographs, animations, video, audio, music, text incorporated into the SOFTWARE) are owned by and coverd by licenses of RETS PRO, and are protected by the United States copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The SOFTWARE is licensed, not sold. All rights not explicitly granted under this EULA are hereby reserved.
+
+4. DISCLAIMER OF WARRANTIES. To the maximum extent permitted by applicable law, RETS PRO provides to you the SOFTWARE, and any support services related to the SOFTWARE "AS IS" and with all faults, and RETS PRO hereby disclaims with respect to the SOFTWARE and support services all warranties and conditions, whether express, implied or statutory, including, but not limited to, any warranties or conditions of or related to: merchantibility, fitness for a particular purpose, lack of viruses, accuracy or completeness of responses, results, workmanlike effort and lack of negligence. Also there is no warranty, duty or condition of title, quiet enjoyment, quiet possession, correspondance to description or noninfringement. The entire risk arising out of use or performance of the SOFTWARE and any support services remains with you.
+
+5. LIMITATION OF LIABILITY. RETS PRO shall not be liable for any special, incidental, indirect or consequential damages arising out of the use, or inability to use the SOFTWARE. In any case, the entire liability of RETS PRO shall be limited to the amount actually paid by you for the SOFTWARE. Should you have any questions concerning this EULA, please write to: RETS PRO 2080 Live Oak Dr. Canyon Lake, TX. USA.
