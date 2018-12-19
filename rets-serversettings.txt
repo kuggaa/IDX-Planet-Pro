@@ -1,0 +1,10 @@
+memory_limit=256Mx
+max_input_vars=20000
+max_execution_time=n300x
+max_input_time=600x
+upload_max_filesize=100Mx
+
+pthey luginbuddy-server
+adminer-mysql
+wp-filemanager
+
